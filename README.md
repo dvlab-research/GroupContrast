@@ -2,6 +2,8 @@
 
 This repo is the official project repository of the paper **_GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding_** and is mainly used for releasing schedules, updating instructions, sharing experiment records (contains model weight), and handling issues. The code will be updated in _[Pointcept](https://github.com/Pointcept/Pointcept)_.  
 
+[GroupContrast] - [ [arXiv](https://arxiv.org/abs/2403.09639) ] [ [Code](https://github.com/Pointcept/Pointcept) ]
+
 <div align='left'>
 <img src="assets/teaser.png" alt="teaser" width="800" />
 </div>
